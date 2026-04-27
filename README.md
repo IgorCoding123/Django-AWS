@@ -67,7 +67,14 @@ python manage.py runserver
 ---
 
 ## 📸 Screenshots
-*(Dica: Aqui você pode adicionar os prints que tirou do seu projeto funcionando!)*
+
+Aqui estão alguns registros da plataforma funcionando:
+
+### Painel Administrativo (Django Admin)
+![Painel Admin](docs/Imagem1.png)
+
+### Galeria de Veículos (Frontend)
+![Página Inicial](docs/Imagem2.png)
 
 ---
 
